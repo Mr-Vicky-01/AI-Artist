@@ -13,6 +13,7 @@ AI Artist is a web application that generates art from user-provided ideas. It u
 
 ## Demo
 
+![image](https://github.com/Mr-Vicky-01/AI-Artist/assets/143078285/376eab37-2264-428f-9f46-ffbbda59a762)
 Try this app: [Link](https://huggingface.co/spaces/Mr-Vicky-01/AI_Artist)
 
 ## Getting Started
